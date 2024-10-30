@@ -1,0 +1,25 @@
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+header {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+nav,li {
+    list-style: none;
+    display: inline;
+    justify-content: space-between;
+}
+button {
+    display: flex;
+    justify-content: space-between;
+}
